@@ -8,3 +8,6 @@ First Test Repository
 * Department
 - Faculty
 + Unit
+
+### Desktop Client test
+We just cloned to desktop
